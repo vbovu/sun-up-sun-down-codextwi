@@ -1,0 +1,236 @@
+{
+  "verifiedImplementationCommit": "0924574424b20a416cc190b663ac5653c64f940b",
+  "originalEvidenceHead": "fe40248b23afd0178eeecd0d244e17d1c1d8f22f",
+  "fontFaceBlocksRemoved": 12,
+  "files": [
+    {
+      "path": "src/App.tsx",
+      "sourceSha256": "2d8d1fe0c7c381deb8a41d7cb3415dd71650ed491014eb5a89c7f0c7c76b31a1",
+      "releaseSha256": "2d8d1fe0c7c381deb8a41d7cb3415dd71650ed491014eb5a89c7f0c7c76b31a1",
+      "identical": true
+    },
+    {
+      "path": "src/audience/audience.css",
+      "sourceSha256": "ac4c407064aae8c86e1c7b4ec56f6a0154485d75629f0ed355f39ddb02e3f0c9",
+      "releaseSha256": "ac4c407064aae8c86e1c7b4ec56f6a0154485d75629f0ed355f39ddb02e3f0c9",
+      "identical": true
+    },
+    {
+      "path": "src/audience/AudiencePanel.tsx",
+      "sourceSha256": "fda12e17fb54a5d554d6900ab461374fee6e4081b6f172a2a43589eda42cb48f",
+      "releaseSha256": "fda12e17fb54a5d554d6900ab461374fee6e4081b6f172a2a43589eda42cb48f",
+      "identical": true
+    },
+    {
+      "path": "src/audience/knightAid.test.ts",
+      "sourceSha256": "05886b155ec796a4d4b82bdeec320f2ac0da1b679b9aa20906efe3afbf3fa22a",
+      "releaseSha256": "05886b155ec796a4d4b82bdeec320f2ac0da1b679b9aa20906efe3afbf3fa22a",
+      "identical": true
+    },
+    {
+      "path": "src/audience/knightAid.ts",
+      "sourceSha256": "cea8a8cac7a99c97d56466a161eb5788aff8d1ea5942197f4fb05dd087d415c3",
+      "releaseSha256": "cea8a8cac7a99c97d56466a161eb5788aff8d1ea5942197f4fb05dd087d415c3",
+      "identical": true
+    },
+    {
+      "path": "src/core/engine.test.ts",
+      "sourceSha256": "6daf15c8ce2a92ec3e5a297d909ac22faa25409e37fcb085876615ee67ad2f58",
+      "releaseSha256": "6daf15c8ce2a92ec3e5a297d909ac22faa25409e37fcb085876615ee67ad2f58",
+      "identical": true
+    },
+    {
+      "path": "src/core/engine.ts",
+      "sourceSha256": "1ebeeac0c79f463e2e27ff039d2afbc9e9b541566c7531ce1b415790cec98986",
+      "releaseSha256": "1ebeeac0c79f463e2e27ff039d2afbc9e9b541566c7531ce1b415790cec98986",
+      "identical": true
+    },
+    {
+      "path": "src/experience/experience.css",
+      "sourceSha256": "bb2a350d8c3de4a0017b89f006debfdeceed523815c948e6e17fc2fbccde11d8",
+      "releaseSha256": "bb2a350d8c3de4a0017b89f006debfdeceed523815c948e6e17fc2fbccde11d8",
+      "identical": true
+    },
+    {
+      "path": "src/experience/GameUI.tsx",
+      "sourceSha256": "254593fdd42a76dab457f89a92f935f34e3d6a7341bb06d04a5754d3bcf84305",
+      "releaseSha256": "254593fdd42a76dab457f89a92f935f34e3d6a7341bb06d04a5754d3bcf84305",
+      "identical": true
+    },
+    {
+      "path": "src/experience/journey.test.ts",
+      "sourceSha256": "12c69907cbe3fbf2c5d98e71a2ff1d78d6963f1dc94b3be4b032d30c54d51437",
+      "releaseSha256": "12c69907cbe3fbf2c5d98e71a2ff1d78d6963f1dc94b3be4b032d30c54d51437",
+      "identical": true
+    },
+    {
+      "path": "src/experience/journey.ts",
+      "sourceSha256": "99c51a184b7d90870f2298f28a917f8165bf7a3a589ada9adf8a43a0b2cd6723",
+      "releaseSha256": "99c51a184b7d90870f2298f28a917f8165bf7a3a589ada9adf8a43a0b2cd6723",
+      "identical": true
+    },
+    {
+      "path": "src/experience/legacyProgression.test.ts",
+      "sourceSha256": "29812f8638b017784c1a531c2cbb4b0e34a862720f693e61459e37a336b1d432",
+      "releaseSha256": "29812f8638b017784c1a531c2cbb4b0e34a862720f693e61459e37a336b1d432",
+      "identical": true
+    },
+    {
+      "path": "src/experience/legacyProgression.ts",
+      "sourceSha256": "57c706decf06afca23b11a6061c1a6c41abae8f10c49f9e481bd505e7c393cec",
+      "releaseSha256": "57c706decf06afca23b11a6061c1a6c41abae8f10c49f9e481bd505e7c393cec",
+      "identical": true
+    },
+    {
+      "path": "src/experience/preferences.test.ts",
+      "sourceSha256": "d0a68bf8c859439b9f5cea0ac5562fd78c5edf482abfc02243ae0b89be666a65",
+      "releaseSha256": "d0a68bf8c859439b9f5cea0ac5562fd78c5edf482abfc02243ae0b89be666a65",
+      "identical": true
+    },
+    {
+      "path": "src/experience/preferences.ts",
+      "sourceSha256": "a872b6a9284d6493663ccddad1668f25098e0ff89bf813dd155c45efbce0d85f",
+      "releaseSha256": "a872b6a9284d6493663ccddad1668f25098e0ff89bf813dd155c45efbce0d85f",
+      "identical": true
+    },
+    {
+      "path": "src/experience/recovery.test.ts",
+      "sourceSha256": "76f66f04c42af2f6ea6adeb7ad4f6f0597fb38c7980a7029cc6f46d13c75116e",
+      "releaseSha256": "76f66f04c42af2f6ea6adeb7ad4f6f0597fb38c7980a7029cc6f46d13c75116e",
+      "identical": true
+    },
+    {
+      "path": "src/experience/recovery.ts",
+      "sourceSha256": "64df22d6db47aa479da97aeb19085230db5eb018d1975e427ba146eb980c64ec",
+      "releaseSha256": "64df22d6db47aa479da97aeb19085230db5eb018d1975e427ba146eb980c64ec",
+      "identical": true
+    },
+    {
+      "path": "src/index.css",
+      "sourceSha256": "b8e2cbf3c3275884a7a83c4cb7c6516a5e230070be454c3f0ebcdc826056817a",
+      "releaseSha256": "fbe02bcb4138c9b21531ca5410461e2eb7b0d43102f106c9644495870afcb1ad",
+      "identical": false
+    },
+    {
+      "path": "src/main.tsx",
+      "sourceSha256": "30d02ee59cb6576973dea4368093b2dcae692a40668f288fdbc66a114873fcd3",
+      "releaseSha256": "30d02ee59cb6576973dea4368093b2dcae692a40668f288fdbc66a114873fcd3",
+      "identical": true
+    },
+    {
+      "path": "src/three/characterRegistry.ts",
+      "sourceSha256": "18b80240391d8d075f7ecf43cbe8947af26201f8b747e19508766c25461d40aa",
+      "releaseSha256": "18b80240391d8d075f7ecf43cbe8947af26201f8b747e19508766c25461d40aa",
+      "identical": true
+    },
+    {
+      "path": "src/three/sceneStage.ts",
+      "sourceSha256": "91d547a31d540027450fd401bdb21e2620aa335f40cc66cbfc38625b53b2ca84",
+      "releaseSha256": "91d547a31d540027450fd401bdb21e2620aa335f40cc66cbfc38625b53b2ca84",
+      "identical": true
+    },
+    {
+      "path": "server/app.test.ts",
+      "sourceSha256": "f72f868b22f26e32626468a17a6ed3bc90be748c6bf5d6901eab5ec49137df1a",
+      "releaseSha256": "f72f868b22f26e32626468a17a6ed3bc90be748c6bf5d6901eab5ec49137df1a",
+      "identical": true
+    },
+    {
+      "path": "server/app.ts",
+      "sourceSha256": "22f6b03deb2e2904dc6bf4e5abaaca04e28f46fbb0e2dc45b63a42a98e007492",
+      "releaseSha256": "22f6b03deb2e2904dc6bf4e5abaaca04e28f46fbb0e2dc45b63a42a98e007492",
+      "identical": true
+    },
+    {
+      "path": "server/audience.test.ts",
+      "sourceSha256": "5c6ca8527618d67d61db3c8bd038fde9b81c418e8b5ffa06fee40b273497dee5",
+      "releaseSha256": "5c6ca8527618d67d61db3c8bd038fde9b81c418e8b5ffa06fee40b273497dee5",
+      "identical": true
+    },
+    {
+      "path": "server/audience.ts",
+      "sourceSha256": "18bc048bd047508b4f49debbb532cd19709a0f754c6dc760584aa6c250ffffab",
+      "releaseSha256": "18bc048bd047508b4f49debbb532cd19709a0f754c6dc760584aa6c250ffffab",
+      "identical": true
+    },
+    {
+      "path": "server/liveCommand.ts",
+      "sourceSha256": "80adf0a11e72f01318412c4594409d0bc0b2225a160134d5a4aca2ff14e120cf",
+      "releaseSha256": "80adf0a11e72f01318412c4594409d0bc0b2225a160134d5a4aca2ff14e120cf",
+      "identical": true
+    },
+    {
+      "path": "server/twitch.test.ts",
+      "sourceSha256": "d47a4659aa1629d4149491f191e4816716fc40c83eac4e7672c2ce580bf747c0",
+      "releaseSha256": "d47a4659aa1629d4149491f191e4816716fc40c83eac4e7672c2ce580bf747c0",
+      "identical": true
+    },
+    {
+      "path": "server/twitch.ts",
+      "sourceSha256": "73e8e6c1323de087c7129259d1ebce16c29dc40dbb56271ebf34291b7646c2e1",
+      "releaseSha256": "73e8e6c1323de087c7129259d1ebce16c29dc40dbb56271ebf34291b7646c2e1",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-bedroom.mjs",
+      "sourceSha256": "cc9d220233db1afaf6222bc18b62b3a4fdbbf1e2a6b8184ac55887076dd04c95",
+      "releaseSha256": "cc9d220233db1afaf6222bc18b62b3a4fdbbf1e2a6b8184ac55887076dd04c95",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-check.cjs",
+      "sourceSha256": "0cef26c5459f71a48897b4e6c9f3a3fba8b27b84185348f619ac864be69c3625",
+      "releaseSha256": "0cef26c5459f71a48897b4e6c9f3a3fba8b27b84185348f619ac864be69c3625",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-continuation-regressions.mjs",
+      "sourceSha256": "0339d840a6dd770cb51854618ee1471ac37ba5ac789048939f236e6a857c00d1",
+      "releaseSha256": "0339d840a6dd770cb51854618ee1471ac37ba5ac789048939f236e6a857c00d1",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-final-ux.mjs",
+      "sourceSha256": "8f44b6ae8e8c7389a8145ec3eac110d7424288742b72015a598c17b145dedcc3",
+      "releaseSha256": "8f44b6ae8e8c7389a8145ec3eac110d7424288742b72015a598c17b145dedcc3",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-journey.mjs",
+      "sourceSha256": "d5f9637f1c1c8e0940edc45556694a371e3125418b2b23e26c505458a9f17405",
+      "releaseSha256": "d5f9637f1c1c8e0940edc45556694a371e3125418b2b23e26c505458a9f17405",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-live-proof.mjs",
+      "sourceSha256": "8762b24a400df0ff96032749296b89a38c24259751c3ffe7fdfb7051f944b790",
+      "releaseSha256": "8762b24a400df0ff96032749296b89a38c24259751c3ffe7fdfb7051f944b790",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-player-block.mjs",
+      "sourceSha256": "7571c56f0413425c8a45102c4e09d222013ea783398f6f7dfdefb1cc309670a2",
+      "releaseSha256": "7571c56f0413425c8a45102c4e09d222013ea783398f6f7dfdefb1cc309670a2",
+      "identical": true
+    },
+    {
+      "path": "scripts/browser-regressions.cjs",
+      "sourceSha256": "c16801d9f6f1f9db2f5e77cac6fc669c1f10ffb25499a1ec70dec07206d67bf7",
+      "releaseSha256": "c16801d9f6f1f9db2f5e77cac6fc669c1f10ffb25499a1ec70dec07206d67bf7",
+      "identical": true
+    },
+    {
+      "path": "scripts/preserve-evidence.py",
+      "sourceSha256": "c65d37ee148561ded0909b1ec4e5b666d38001ea25c6977e875408b2fd516b70",
+      "releaseSha256": "c65d37ee148561ded0909b1ec4e5b666d38001ea25c6977e875408b2fd516b70",
+      "identical": true
+    },
+    {
+      "path": "scripts/secret-scan.mjs",
+      "sourceSha256": "351562f4e6630e891395797fd9ff5a497e161c78b4966a7e74c33572663b8198",
+      "releaseSha256": "351562f4e6630e891395797fd9ff5a497e161c78b4966a7e74c33572663b8198",
+      "identical": true
+    }
+  ],
+  "publicationMethod": "New lean release snapshot; original repository/history not rewritten or discarded. Full authentic original bundle retained locally. The public release SHA is intentionally distinct; original hashes are recorded, not claimed to exist as ancestors online."
+}

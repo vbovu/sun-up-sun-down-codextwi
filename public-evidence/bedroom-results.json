@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "pages": [
+    {
+      "beat": "0",
+      "line": "0"
+    },
+    {
+      "beat": "0",
+      "line": "1"
+    },
+    {
+      "beat": "1",
+      "line": "0"
+    },
+    {
+      "beat": "1",
+      "line": "1"
+    },
+    {
+      "beat": "2",
+      "line": "0"
+    },
+    {
+      "beat": "2",
+      "line": "1"
+    },
+    {
+      "beat": "2",
+      "line": "2"
+    },
+    {
+      "beat": "3",
+      "line": "0"
+    },
+    {
+      "beat": "3",
+      "line": "1"
+    },
+    {
+      "beat": "4",
+      "line": "0"
+    },
+    {
+      "beat": "4",
+      "line": "1"
+    }
+  ],
+  "movement": {
+    "before": {
+      "x": 0,
+      "z": -1.55,
+      "yaw": 0,
+      "speed": 0
+    },
+    "after": {
+      "x": 0,
+      "z": 0.1798400000333784,
+      "yaw": 0,
+      "speed": 0
+    }
+  },
+  "errors": [],
+  "observed": "All11 bedroom pages exactly once; typing click does not skip; Enter advances once; free walking/tutorial dismissal; final chapter completion does not wrap; return to title."
+}

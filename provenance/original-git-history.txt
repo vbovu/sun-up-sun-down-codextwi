@@ -1,0 +1,74 @@
+fe40248b23afd0178eeecd0d244e17d1c1d8f22f
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T23:35:04+02:00
+Subject: Preserve final UX browser proof, session records and review
+
+0924574424b20a416cc190b663ac5653c64f940b
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T23:30:44+02:00
+Subject: Preview graphics, unify camera look and preserve chapter navigation
+
+19eaa03712ae5824df1db7ce58297b80543bb3aa
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T22:53:34+02:00
+Subject: Preserve playability proof and real Twitch authorization without credentials
+
+3aa5d8a3e315e98c70dbef8aa2bd8cea6429ca88
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T22:43:57+02:00
+Subject: Complete bedroom dialogue and clarify practice versus timed knight rounds
+
+08cd947fe4fb40434a9064f6e13226c7aaa0c169
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T21:53:03+02:00
+Subject: Verify player block independently of audience aid
+
+1e16c021441aba371a6a32d107622bbca5f31159
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T21:50:33+02:00
+Subject: Preserve refinement verification, actual session and submission handoff
+
+d27dfc44886a612948db783fbd9bdcf01b694d2c
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T21:43:56+02:00
+Subject: Preserve walking elapsed time under slow render pacing
+
+14d497f30b33b18b4269fb2b36f8fc674a108362
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T21:36:10+02:00
+Subject: Decouple walking from 3D pacing and keep pause keyboard focus modal
+
+10c20e57e0ac4f59c3875a47341ec1217bccf97f
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T21:26:17+02:00
+Subject: Guide Scene I through world interaction and combat with persisted settings and quieter presentation
+
+7fe175b0f0fdb50b8380a7448b37a9f4afa12f89
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T21:26:16+02:00
+Subject: Reject stale Twitch migration and paused-period notifications
+
+9f3b0ccb4c4c83be1e6fae8030f3437f54d9f301
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T16:28:22+02:00
+Subject: Preserve final clean-build receipts, actual session evidence and release blockers
+
+cee662ccce23a799f9c167189755d77afd4d2799
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T16:23:38+02:00
+Subject: Remove unused archived transcript from public assets and record candidate gates
+
+09e75d8472e3561d68bc37825b1f60c280e7c518
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T16:19:09+02:00
+Subject: Integrate playable audience aid, repair OAuth and input lifecycle, and preserve verified browser evidence
+
+8b8fcf4bb52a46515cf5684c3af3f4a37c983c88
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T15:54:50+02:00
+Subject: Add tested deterministic audience director and confidential Twitch EventSub backend
+
+34a4b1fce9e5ee96848cedc4562febe041ffa7d4
+Author: Codex <codex@local.invalid>
+Date: 2026-11-02T15:44:06+02:00
+Subject: Preserve historical AI Studio archive verbatim; original history unavailable

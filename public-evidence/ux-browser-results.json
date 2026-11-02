@@ -1,0 +1,24 @@
+[
+  {
+    "width": 1365,
+    "status": "PASS",
+    "errors": [],
+    "observed": "All graphics choices preview real scene; brightness/style apply and persist; accidental new game can be cancelled; menu Continue preserves beat; combat checkpoint restores ready without replaying story; timer inside console."
+  },
+  {
+    "width": 1920,
+    "status": "PASS",
+    "errors": [],
+    "observed": "All graphics choices preview real scene; brightness/style apply and persist; accidental new game can be cancelled; menu Continue preserves beat; combat checkpoint restores ready without replaying story; timer inside console."
+  },
+  {
+    "width": 900,
+    "status": "PASS",
+    "errors": [],
+    "observed": "All graphics choices preview real scene; brightness/style apply and persist; accidental new game can be cancelled; menu Continue preserves beat; combat checkpoint restores ready without replaying story; timer inside console."
+  },
+  {
+    "connectedAffordance": "PASS",
+    "method": "MOCKED EventSource UI state only; not real Twitch proof and no owner-server mutation"
+  }
+]

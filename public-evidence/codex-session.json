@@ -1,0 +1,19 @@
+{
+  "actualSessionId": "01a19c7d-f3ef-7123-afbb-013f8be8d21b",
+  "recordedAtSAST": "2026-11-02T23:33:43.873273+02:00",
+  "verification": "Actual environment matches both original and continuation session_meta IDs. Original raw records remain local. The newer filename has an extra recording suffix; this is not substituted for session_meta id. Prior safe visible exports preserved. No private reasoning/credentials exported. Interactive /status not available; no fabricated result.",
+  "records": [
+    {
+      "snapshotSha256": "635a7c384a987c3ce4709f855a6c59194c6516475fc29cf6bfb859e1dad5a149",
+      "snapshotBytes": 21980483,
+      "sessionMetaId": "01a19c7d-f3ef-7123-afbb-013f8be8d21b",
+      "sessionMetaTimestamp": "2026-11-02T13:41:02.578Z"
+    },
+    {
+      "snapshotSha256": "a8d8c0e0cda83fcf55d37d396a7b5385c965fbf48b730e7721ff0b5564ca266a",
+      "snapshotBytes": 3578975,
+      "sessionMetaId": "01a19c7d-f3ef-7123-afbb-013f8be8d21b",
+      "sessionMetaTimestamp": "2026-11-02T21:13:48.044Z"
+    }
+  ]
+}

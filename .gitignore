@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+coverage/
+.env*
+!.env.example
+EVIDENCE/
+*.log
+*.zip
+*.bundle
+*.webm
+*.mp4
+.DS_Store

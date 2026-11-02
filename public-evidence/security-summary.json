@@ -1,0 +1,16 @@
+{
+  "originalHistoryBlobsScanned": 598,
+  "bytesScanned": 264765509,
+  "knownTwitchAndGitHubSecretsFound": false,
+  "historicalFinding": "Firebase client configuration key, excluded from this release together with historical objects. Restrictions not verified.",
+  "currentRelease": "Scanned separately before publication; see local delivery receipt.",
+  "excluded": [
+    ".env",
+    "all tokens and OAuth codes",
+    "raw session records/transcripts",
+    "Firebase config",
+    "embedded WOFF2 fonts",
+    "unused AI Studio image",
+    "all videos/ZIPs/bundles/caches/node_modules"
+  ]
+}

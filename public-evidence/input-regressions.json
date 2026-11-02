@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "walkerBefore": {
+    "x": -2.15,
+    "z": -1.05,
+    "yaw": -1.57,
+    "speed": 0
+  },
+  "walkerAfter": {
+    "x": -6.099118747834733,
+    "z": -1.0468552102601283,
+    "yaw": -1.57,
+    "speed": 0
+  },
+  "fullscreen": {
+    "active": true,
+    "supported": true
+  },
+  "raf": {
+    "samples": 120,
+    "medianMs": 6.900000000001455,
+    "p95Ms": 104.10000000000036,
+    "maxMs": 132
+  },
+  "errors": [],
+  "limitations": "RAF sample is browser responsiveness on this software-rendered host, not a GPU FPS, long-run memory or target-hardware certification."
+}

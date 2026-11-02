@@ -1,0 +1,236 @@
+
+> sun-up-sun-down-twitch-slice@0.2.0 test
+> node --import tsx --test src/core/engine.test.ts src/audience/knightAid.test.ts src/experience/*.test.ts server/*.test.ts
+
+TAP version 13
+# Subtest: offline session, explicit demo vote and no browser secrets
+ok 1 - offline session, explicit demo vote and no browser secrets
+  ---
+  duration_ms: 106.127
+  type: 'test'
+  ...
+# Subtest: cross-origin, missing csrf, DNS rebinding and uninitialized streams rejected
+ok 2 - cross-origin, missing csrf, DNS rebinding and uninitialized streams rejected
+  ---
+  duration_ms: 19.9019
+  type: 'test'
+  ...
+# Subtest: OAuth setup unavailable without credentials; callback state is mandatory
+ok 3 - OAuth setup unavailable without credentials; callback state is mandatory
+  ---
+  duration_ms: 10.8068
+  type: 'test'
+  ...
+# Subtest: OAuth start uses read-only scope, fixed localhost redirect and per-session state
+ok 4 - OAuth start uses read-only scope, fixed localhost redirect and per-session state
+  ---
+  duration_ms: 6.3479
+  type: 'test'
+  ...
+# Subtest: delayed unseen Twitch message from an earlier window never enters current vote
+ok 5 - delayed unseen Twitch message from an earlier window never enters current vote
+  ---
+  duration_ms: 0.7468
+  type: 'test'
+  ...
+# Subtest: controller SSE disconnect cancels window and pauses votes before reconnection
+ok 6 - controller SSE disconnect cancels window and pauses votes before reconnection
+  ---
+  duration_ms: 4043.6603
+  type: 'test'
+  ...
+# Subtest: resuming a live vote rejects delayed paused-period notifications without resetting tally or time
+ok 7 - resuming a live vote rejects delayed paused-period notifications without resetting tally or time
+  ---
+  duration_ms: 155.9983
+  type: 'test'
+  ...
+# Subtest: only strict aid commands are accepted
+ok 8 - only strict aid commands are accepted
+  ---
+  duration_ms: 1.0153
+  type: 'test'
+  ...
+# Subtest: first vote per viewer and duplicate delivery never inflate counts
+ok 9 - first vote per viewer and duplicate delivery never inflate counts
+  ---
+  duration_ms: 1.0462
+  type: 'test'
+  ...
+# Subtest: majority, deterministic tie, zero viewers fallback, and one resolution
+ok 10 - majority, deterministic tie, zero viewers fallback, and one resolution
+  ---
+  duration_ms: 0.4137
+  type: 'test'
+  ...
+# Subtest: paused time does not consume window and paused votes rejected
+ok 11 - paused time does not consume window and paused votes rejected
+  ---
+  duration_ms: 0.1517
+  type: 'test'
+  ...
+# Subtest: deadline, stale window, malformed events and source mixing rejected
+ok 12 - deadline, stale window, malformed events and source mixing rejected
+  ---
+  duration_ms: 0.1957
+  type: 'test'
+  ...
+# Subtest: disconnect cancels window and pending result; reconnect does not replay
+ok 13 - disconnect cancels window and pending result; reconnect does not replay
+  ---
+  duration_ms: 0.1317
+  type: 'test'
+  ...
+# Subtest: cooldown survives round restart and resets safely after it elapses
+ok 14 - cooldown survives round restart and resets safely after it elapses
+  ---
+  duration_ms: 0.165
+  type: 'test'
+  ...
+# Subtest: old event times, excessive ids and future timestamps are rejected
+ok 15 - old event times, excessive ids and future timestamps are rejected
+  ---
+  duration_ms: 0.1026
+  type: 'test'
+  ...
+# Subtest: LIVE only after validated token, welcome and successful subscription; ids hashed
+ok 16 - LIVE only after validated token, welcome and successful subscription; ids hashed
+  ---
+  duration_ms: 86.9572
+  type: 'test'
+  ...
+# Subtest: malformed/wrong channel/stale/foreign subscription notifications ignored
+ok 17 - malformed/wrong channel/stale/foreign subscription notifications ignored
+  ---
+  duration_ms: 29.882
+  type: 'test'
+  ...
+# Subtest: server-directed migration transfers subscription and preserves dedupe
+ok 18 - server-directed migration transfers subscription and preserves dedupe
+  ---
+  duration_ms: 61.0793
+  type: 'test'
+  ...
+# Subtest: unsafe reconnect URL rejected and revocation goes OFFLINE
+ok 19 - unsafe reconnect URL rejected and revocation goes OFFLINE
+  ---
+  duration_ms: 30.0305
+  type: 'test'
+  ...
+# Subtest: wrong OAuth account, app or missing scope cannot open live socket
+ok 20 - wrong OAuth account, app or missing scope cannot open live socket
+  ---
+  duration_ms: 1.7019
+  type: 'test'
+  ...
+# Subtest: stale subscription completion cannot replace the currently authenticated session
+ok 21 - stale subscription completion cannot replace the currently authenticated session
+  ---
+  duration_ms: 91.973
+  type: 'test'
+  ...
+# Subtest: abandoned migration cannot replace a freshly subscribed retry
+ok 22 - abandoned migration cannot replace a freshly subscribed retry
+  ---
+  duration_ms: 1658.0349
+  type: 'test'
+  ...
+# Subtest: torch changes real slash damage and expires in active simulation time
+ok 23 - torch changes real slash damage and expires in active simulation time
+  ---
+  duration_ms: 1.2185
+  type: 'test'
+  ...
+# Subtest: shield does not buff attacks, and paused time preserves duration
+ok 24 - shield does not buff attacks, and paused time preserves duration
+  ---
+  duration_ms: 1.1084
+  type: 'test'
+  ...
+# Subtest: Rust-inspired Result<T, E>, Option<T>, and deterministic MPSC channel queue
+ok 25 - Rust-inspired Result<T, E>, Option<T>, and deterministic MPSC channel queue
+  ---
+  duration_ms: 1.7899
+  type: 'test'
+  ...
+# Subtest: Finite-safe computeNoseVertex never produces NaN even when apex y slightly exceeds hSpan * 0.5
+ok 26 - Finite-safe computeNoseVertex never produces NaN even when apex y slightly exceeds hSpan * 0.5
+  ---
+  duration_ms: 0.4108
+  type: 'test'
+  ...
+# Subtest: Critically damped springStep converges smoothly to goal without NaN or overshoot
+ok 27 - Critically damped springStep converges smoothly to goal without NaN or overshoot
+  ---
+  duration_ms: 0.5023
+  type: 'test'
+  ...
+# Subtest: Canon invariant: 38 verbatim 18:53 chat messages and Scene 1 -> Scene 2 -> Scene 3 -> Scene 4 progression
+ok 28 - Canon invariant: 38 verbatim 18:53 chat messages and Scene 1 -> Scene 2 -> Scene 3 -> Scene 4 progression
+  ---
+  duration_ms: 1.5791
+  type: 'test'
+  ...
+# Subtest: short chapter follows authored conversation, Mum, driver, console, outcome, reflection
+ok 29 - short chapter follows authored conversation, Mum, driver, console, outcome, reflection
+  ---
+  duration_ms: 1.8815
+  type: 'test'
+  ...
+# Subtest: close combat returns to console objective without restarting story; replay resets presentation only
+ok 30 - close combat returns to console objective without restarting story; replay resets presentation only
+  ---
+  duration_ms: 0.1591
+  type: 'test'
+  ...
+# Subtest: legacy Continue finishes text, advances one page, then closes/advances or completes
+ok 31 - legacy Continue finishes text, advances one page, then closes/advances or completes
+  ---
+  duration_ms: 0.6426
+  type: 'test'
+  ...
+# Subtest: preferences clamp values and never preserve secrets or unknown keys
+ok 32 - preferences clamp values and never preserve secrets or unknown keys
+  ---
+  duration_ms: 1.9326
+  type: 'test'
+  ...
+# Subtest: sensitivity changes actual look deltas and invert reverses vertical only
+ok 33 - sensitivity changes actual look deltas and invert reverses vertical only
+  ---
+  duration_ms: 0.1476
+  type: 'test'
+  ...
+# Subtest: diagonal movement uses the same input magnitude as straight movement
+ok 34 - diagonal movement uses the same input magnitude as straight movement
+  ---
+  duration_ms: 0.1406
+  type: 'test'
+  ...
+# Subtest: captured and dragged mouse have coherent angular sensitivity
+ok 35 - captured and dragged mouse have coherent angular sensitivity
+  ---
+  duration_ms: 1.2408
+  type: 'test'
+  ...
+# Subtest: combat checkpoint resumes at console ready and preserves the story objective
+ok 36 - combat checkpoint resumes at console ready and preserves the story objective
+  ---
+  duration_ms: 0.1726
+  type: 'test'
+  ...
+# Subtest: graphics preferences clamp and only mark a deliberate choice
+ok 37 - graphics preferences clamp and only mark a deliberate choice
+  ---
+  duration_ms: 0.166
+  type: 'test'
+  ...
+1..37
+# tests 37
+# suites 0
+# pass 37
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 4789.5207
