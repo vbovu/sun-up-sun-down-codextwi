@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "source": "OFFLINE",
+  "observed": "Fresh release: graphics chooser, intro/chat/passenger sequence, console entry, real jump, console-local clock, pause freeze; zero pageerrors. System-font source builds and renders.",
+  "errors": []
+}

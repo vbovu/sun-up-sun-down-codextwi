@@ -68,3 +68,4 @@ The original history scan found a Firebase client config key. That config and it
 ## Submission status
 
 Source is supplied for judging/reproduction. Public/unlisted YouTube demo URL and completed Devpost submission are not verified. The authentic local DEMO recordings are not a finished submission video or real Twitch proof. Do not claim every part of the historical game was newly created during the competition period.
+`Fresh release verification: npm ci installed 147 packages; 37/37 tests, typecheck/build and the system-font browser smoke all passed. See public-evidence/release-*.txt and release-smoke.json. Copy-ready submission text is in DEVPOST_HANDOFF.md.`
